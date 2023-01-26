@@ -18,3 +18,8 @@ Users should be able to:
 
 
 
+<img width="1440" alt="Screenshot 2023-01-26 at 10 45 40 AM" src="https://user-images.githubusercontent.com/83878346/214763487-ac3f0c35-d794-4591-b440-9060d6c38200.png">
+
+<img width="1433" alt="Screenshot 2023-01-26 at 10 45 53 AM" src="https://user-images.githubusercontent.com/83878346/214763511-d7cb4745-3664-4455-8b37-ce706c0e742b.png">
+
+<img width="1427" alt="Screenshot 2023-01-26 at 10 46 07 AM" src="https://user-images.githubusercontent.com/83878346/214763531-65a8c6cd-0f0e-4b67-84ba-d3e9aa7ba580.png">
